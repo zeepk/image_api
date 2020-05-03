@@ -25,7 +25,7 @@ SECRET_KEY = '(qa8hny*hma$9d8o5u(2o)2w#p!g==faz8o1z$)9nc40b*#0co'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['polar-scrubland-49858.herokuapp.com', 'localhost']
 
 
 # Application definition
