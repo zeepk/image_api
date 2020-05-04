@@ -1,4 +1,4 @@
-from django.contrib.auth.models import TestModel
+from .models import TestModel
 from rest_framework import serializers
 
 class TestModelSerializer(serializers.HyperlinkedModelSerializer):
