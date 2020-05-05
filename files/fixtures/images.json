@@ -1,0 +1,9 @@
+[
+	{
+		"pk": 2,
+		"model": "files.Image",
+		"fields": {
+			"file": "logo.png"
+		}
+	}
+]
